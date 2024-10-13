@@ -1,0 +1,8 @@
+PUT      http://localhost:5555/books/67085638e2bd6a306bf4dad6
+Content-Type: application/json
+
+{
+    "title": "Book of Mark",
+    "author": "Beloved disciple of Jesus: John",
+    "publishYear": "300 AD"
+}
